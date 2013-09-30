@@ -34,7 +34,7 @@ in the Replacement text.
 |"$i"            | Replace needle with incremental value.|
 |"$i $1"         | Insert incremental value before backreference 1.|
 |"$3$i $2$1"     | Insert incremental value after backreference 3.|
-|"$i newtext $i  | Replace needle with incremental value at two locations, the same value will be used for each instance (1 newtext 1).|
+|"$i newtext $i" | Replace needle with incremental value at two locations, the same value will be used for each instance (1 newtext 1).|
 
 **Examples of Start/Increment**
 
